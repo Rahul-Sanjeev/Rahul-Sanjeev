@@ -1,5 +1,10 @@
 # 💫 About Me:
-Self-Taught Software Developer<br>Web Development Trainer At Samagra Shiksha Kerala<br>Python Full-Stack Developer<br>React.JS , Django<br>Karate National Player<br>Theater Artist & Script Writer 
+  <p>
+    👨‍💻 <strong>Self-Taught Software Developer</strong> | <strong>Python Full-Stack Developer</strong> (React.js & Django) <br>
+    🎓 <strong>Web Development Trainer</strong> at <strong>Samagra Shiksha Kerala</strong> – a government initiative to enhance equitable learning from pre-nursery to Class 12. <br>
+    🥋 <strong>Karate National Player</strong> | 🎭 <strong>Theater Artist & Script Writer</strong>
+  </p>
+  <p>🌟 Passionate about coding, teaching, and creating impactful solutions!</p>
 
 
 ## 🌐 Socials:
